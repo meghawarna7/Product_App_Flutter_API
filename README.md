@@ -11,8 +11,8 @@ A new Flutter project.
   <img src="3.jpg" alt="Screenshot 3" width="200"/>
   <img src="4.jpg" alt="Screenshot 4" width="200"/>
   <img src="5.jpg" alt="Screenshot 5" width="200"/>
-    <img src="6.jpg" alt="Screenshot 6" width="200"/>
-    <img src="7.jpg" alt="Screenshot 7" width="200"/>
+    <img src="6.jpg" alt="Screenshot 6" />
+    <img src="7.jpg" alt="Screenshot 7" />
 </div>
 
 ```plaintext
