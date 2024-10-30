@@ -12,3 +12,26 @@ A new Flutter project.
   <img src="4.jpg" alt="Screenshot 4" width="200"/>
   <img src="5.jpg" alt="Screenshot 5" width="200"/>
 </div>
+
+```plaintext
+product_app/
+│
+├── android/              # Android-specific files
+│
+├── ios/                  # iOS-specific files
+│
+├── lib/                  # Main source code directory
+│   ├── models/           # Data models
+│   ├── services/         # API services
+│   ├── screens/          # UI screens
+│   ├── widgets/          # Reusable widgets
+│   ├── main.dart         # Main entry point
+│   └── ...               # Other Dart files
+│
+├── test/                 # Unit and widget tests
+│
+├── pubspec.yaml          # Flutter package configuration file
+│
+├── README.md             # Project documentation
+│
+└── ...                   # Other configuration files (like .gitignore)
