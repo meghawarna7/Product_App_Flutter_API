@@ -21,10 +21,15 @@ product_app/
 ├── ios/                  # iOS-specific files
 │
 ├── lib/                  # Main source code directory
-│   ├── models/           # Data models
-│   ├── services/         # API services
-│   ├── screens/          # UI screens
-│   ├── widgets/          # Reusable widgets
+│   ├── models/
+          ├──  product.dart 
+│   ├── services/
+          ├── api_service.dart    # API services
+│   ├── screens/
+           ├── home_screen.dart              
+           ├── product_details_screen.dart               
+│   ├── widgets/
+          ├── product_card.dart    # Reusable widgets
 │   ├── main.dart         # Main entry point
 │   └── ...               # Other Dart files
 │
