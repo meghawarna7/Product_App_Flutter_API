@@ -2,15 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="1.jpg" alt="Screenshot 1" width="200"/>
+  <img src="2.jpg" alt="Screenshot 2" width="200"/>
+  <img src="3.jpg" alt="Screenshot 3" width="200"/>
+  <img src="4.jpg" alt="Screenshot 4" width="200"/>
+  <img src="5.jpg" alt="Screenshot 5" width="200"/>
+</div>
